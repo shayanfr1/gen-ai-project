@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App base styles */
+:root {
+  --bg: 250 250 249;
+}
+
+body {
+  background-color: rgb(var(--bg));
+}
+
+

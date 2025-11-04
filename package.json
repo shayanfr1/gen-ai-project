@@ -1,0 +1,28 @@
+{
+  "name": "elder-care-meals-image-gen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "next": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.14.0",
+    "eslint-config-next": "^16.0.1",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.6",
+    "typescript": "^5.4.5"
+  }
+}
